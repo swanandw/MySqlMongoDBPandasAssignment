@@ -1,0 +1,65 @@
+2022-07-25 16:41:02,570 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 16:42:09,987 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 16:43:06,238 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 16:43:06,480 INFO root Second step is to make connection to MySQl database
+2022-07-25 16:43:06,480 INFO root Making a connection with MySql database
+2022-07-25 16:43:06,516 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 16:43:06,517 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-07-25 16:43:06,517 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 16:43:06,517 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-07-25 16:43:06,517 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-07-25 16:43:06,519 INFO root Connection is successful
+2022-07-25 16:43:06,519 INFO root Create a table AttributeDataset
+2022-07-25 16:43:06,519 INFO root Creating a new table AttributeDataset
+2022-07-25 16:43:06,534 INFO root table created
+2022-07-25 16:43:07,014 INFO root Data sucessfully inserted into AttributeDataset table
+2022-07-25 16:43:07,014 INFO root Select all rows from AttributeDataset table
+2022-07-25 16:43:07,014 INFO root Execute the query
+2022-07-25 16:43:07,024 INFO root query Executed successfully
+2022-07-25 16:43:07,024 INFO root selct all the rows 
+2022-07-25 16:43:07,024 INFO root All rows being selected
+2022-07-25 16:43:07,024 INFO root Print all the rows
+2022-07-25 16:43:07,026 INFO root all rows are printed
+2022-07-25 17:07:01,560 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 17:07:01,810 INFO root Second step is to make connection to MySQl database
+2022-07-25 17:07:01,810 INFO root Making a connection with MySql database
+2022-07-25 17:07:01,839 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 17:07:01,840 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-07-25 17:07:01,840 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 17:07:01,840 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-07-25 17:07:01,840 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-07-25 17:07:01,844 INFO root Connection is successful
+2022-07-25 17:07:01,844 INFO root Create a table AttributeDataset
+2022-07-25 17:07:01,844 INFO root Creating a new table AttributeDataset
+2022-07-25 17:07:01,845 INFO root Select all rows from AttributeDataset table
+2022-07-25 17:07:01,845 INFO root Execute the query
+2022-07-25 17:07:01,854 INFO root query Executed successfully
+2022-07-25 17:07:01,854 INFO root selct all the rows 
+2022-07-25 17:07:01,854 INFO root All rows being selected
+2022-07-25 17:07:01,854 INFO root Print all the rows
+2022-07-25 17:07:01,855 INFO root all rows are printed
+2022-07-25 17:14:10,039 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 17:14:10,278 INFO root Second step is to make connection to MySQl database
+2022-07-25 17:14:10,278 INFO root Making a connection with MySql database
+2022-07-25 17:14:10,307 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 17:14:10,307 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-07-25 17:14:10,307 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-07-25 17:14:10,307 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-07-25 17:14:10,307 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-07-25 17:14:10,309 INFO root Connection is successful
+2022-07-25 17:14:10,309 INFO root Create a table DressSales
+2022-07-25 17:14:10,309 INFO root Creating a new table DressSales
+2022-07-25 17:14:10,323 INFO root table created
+2022-07-25 17:14:10,394 INFO root Select all rows from DressSales table
+2022-07-25 17:14:10,394 INFO root Execute the query
+2022-07-25 17:14:10,397 INFO root query Executed successfully
+2022-07-25 17:14:10,397 INFO root selct all the rows 
+2022-07-25 17:14:10,397 INFO root All rows being selected
+2022-07-25 17:14:10,398 INFO root Print all the rows
+2022-07-25 17:14:10,398 INFO root all rows are printed
+2022-07-25 17:20:33,652 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 17:21:34,515 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 17:32:47,375 INFO root First step is to fetch the data from xlsx using pandas library 
+2022-07-25 17:32:47,931 INFO root Data is fetched successfully from xlsx file 
+2022-07-25 17:32:47,931 INFO root Convert a data from xlsx into json format
+2022-07-25 17:32:47,932 INFO root Data Converted into Json format successfully
